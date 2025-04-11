@@ -5,3 +5,4 @@ Console.WriteLine("GitHub uchun 2-commit");
 Console.WriteLine("GitHub uchun 3-commit");
 Console.WriteLine("GitHub uchun 4-commit");
 Console.WriteLine("GitHub uchun 5-commit");
+Console.WriteLine("GitHub uchun 6-commit");
