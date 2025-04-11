@@ -9,3 +9,4 @@ Console.WriteLine("GitHub uchun 6-commit");
 Console.WriteLine("GitHub uchun 7-commit");
 Console.WriteLine("GitHub uchun 8-commit");
 Console.WriteLine("GitHub uchun 9-commit");
+Console.WriteLine("GitHub uchun 10-commit");
