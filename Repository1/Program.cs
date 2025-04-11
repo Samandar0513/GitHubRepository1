@@ -2,3 +2,4 @@
 Console.WriteLine("GitHub uchun 1-repository");
 Console.WriteLine("GitHub uchun 1-commit");
 Console.WriteLine("GitHub uchun 2-commit");
+Console.WriteLine("GitHub uchun 3-commit");
